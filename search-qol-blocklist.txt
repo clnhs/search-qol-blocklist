@@ -1,0 +1,2 @@
+/(\w)\.pinterest\.(\w)/
+*://theworldnews.net/*
